@@ -2,10 +2,10 @@
 
 Desenvolvido durante o Bootcamp de Java com Sprin Boot da Claro em parceria com a [DIO](https://web.dio.me/track/coding-the-future-claro-java-spring-boot)
 
-<h1 align="center">Sistema de Controle de fluxo, com objetivo de aplicar alguns conceitos da Trilha Java Básico</h1>
+<h1 align="center">Sistema simples de Controle de fluxo e Tratamento de Exceções</h1>
 
 <p align="center">
-Um exercício simples para estudo da sintáxe básica da linguagem de programação Java e controle de fluxo e exceções
+Um exercício simples para estudo da sintáxe básica da linguagem de programação Java e controle de fluxo e tratamento de exceções
  <br/>
 
 </p>
